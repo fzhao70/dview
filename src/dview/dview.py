@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import numpy as np
 import h5py
 import netCDF4 as nc
